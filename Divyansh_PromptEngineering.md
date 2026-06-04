@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
 
-Name: Mahi
+Name: Divyansh
 
 Date: 04 June 2026
 
