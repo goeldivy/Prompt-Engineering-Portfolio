@@ -4,7 +4,7 @@ Name: Divyansh
 
 Date: 04 June 2026
 
-LLM Used: ChatGPT-5.5
+LLM Used: ChatGPT
 
 ## Part 1: Prompt Design & Iteration
 
